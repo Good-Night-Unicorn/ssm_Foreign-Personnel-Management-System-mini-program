@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/b55cf2e4-12f7-4d10-8d2e-45ce6fcce7e6)## 基于SSM外籍人员管理系统小程序(源代码+LW+PPT+数据库)
+## 基于SSM外籍人员管理系统小程序(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -64,7 +64,7 @@
 ![图片](https://github.com/user-attachments/assets/5e9760c0-5b76-42a9-ad39-1e1b1121991d)
 ![图片](https://github.com/user-attachments/assets/5667cc2f-e473-4dc0-ae2c-fab9bf4ecfde)
 ![图片](https://github.com/user-attachments/assets/82b7d9df-44f2-4d9b-b752-63dbffe061a0)
-
+![图片](https://github.com/user-attachments/assets/b55cf2e4-12f7-4d10-8d2e-45ce6fcce7e6)
 
 ## 五、浏览地址
 
